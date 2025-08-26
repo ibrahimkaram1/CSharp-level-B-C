@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\c# fundamental\\CSharp level B\u0026 C\\Password Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6E4AC8-3AB4-4FA2-B081-C5D3167CB5D5}|Password Manager\\Password Manager.csproj|g:\\c# fundamental\\csharp level b\u0026 c\\password manager\\password manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6E4AC8-3AB4-4FA2-B081-C5D3167CB5D5}|Password Manager\\Password Manager.csproj|solutionrelative:password manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\c# fundamental\\CSharp level B\u0026 C\\Password Manager\\Password Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Password Manager\\Program.cs",
+              "ToolTip": "G:\\c# fundamental\\CSharp level B\u0026 C\\Password Manager\\Password Manager\\Program.cs",
+              "RelativeToolTip": "Password Manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:11:36.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

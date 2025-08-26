@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|d:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\simple math expression evaluator\\expressionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|solutionrelative:simple math expression evaluator\\expressionparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|d:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\simple math expression evaluator\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|solutionrelative:simple math expression evaluator\\mathexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|d:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\simple math expression evaluator\\evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|solutionrelative:simple math expression evaluator\\evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|d:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\simple math expression evaluator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|solutionrelative:simple math expression evaluator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|d:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\simple math expression evaluator\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D96125-622C-48FA-870A-40E912F95682}|Simple Math Expression Evaluator\\Simple Math Expression Evaluator.csproj|solutionrelative:simple math expression evaluator\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evaluator.cs",
+              "DocumentMoniker": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\Evaluator.cs",
+              "RelativeDocumentMoniker": "Simple Math Expression Evaluator\\Evaluator.cs",
+              "ToolTip": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\Evaluator.cs",
+              "RelativeToolTip": "Simple Math Expression Evaluator\\Evaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:27:21.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\MathOperations.cs",
+              "RelativeDocumentMoniker": "Simple Math Expression Evaluator\\MathOperations.cs",
+              "ToolTip": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\MathOperations.cs",
+              "RelativeToolTip": "Simple Math Expression Evaluator\\MathOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:44:37.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathExpression.cs",
+              "DocumentMoniker": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\MathExpression.cs",
+              "RelativeDocumentMoniker": "Simple Math Expression Evaluator\\MathExpression.cs",
+              "ToolTip": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\MathExpression.cs",
+              "RelativeToolTip": "Simple Math Expression Evaluator\\MathExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:44:13.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpressionParser.cs",
+              "DocumentMoniker": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\ExpressionParser.cs",
+              "RelativeDocumentMoniker": "Simple Math Expression Evaluator\\ExpressionParser.cs",
+              "ToolTip": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\ExpressionParser.cs",
+              "RelativeToolTip": "Simple Math Expression Evaluator\\ExpressionParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:42:31.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\Program.cs",
+              "RelativeDocumentMoniker": "Simple Math Expression Evaluator\\Program.cs",
+              "ToolTip": "D:\\\u0647\u064A\u0645\u0627\\.net\\small calclautor\\Simple Math Expression Evaluator\\Program.cs",
+              "RelativeToolTip": "Simple Math Expression Evaluator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:31:31.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

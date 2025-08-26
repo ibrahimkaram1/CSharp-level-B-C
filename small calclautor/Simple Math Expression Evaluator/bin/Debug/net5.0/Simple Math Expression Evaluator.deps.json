@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Simple Math Expression Evaluator/1.0.0": {
+        "runtime": {
+          "Simple Math Expression Evaluator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Math Expression Evaluator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

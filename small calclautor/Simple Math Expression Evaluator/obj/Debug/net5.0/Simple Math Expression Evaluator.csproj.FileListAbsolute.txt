@@ -1,0 +1,30 @@
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.exe
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.deps.json
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.runtimeconfig.json
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.runtimeconfig.dev.json
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.dll
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.pdb
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.GeneratedMSBuildEditorConfig.editorconfig
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.AssemblyInfoInputs.cache
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.AssemblyInfo.cs
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.csproj.CoreCompileInputs.cache
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.dll
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\refint\Simple Math Expression Evaluator.dll
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.pdb
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.genruntimeconfig.cache
+D:\هيما\.net\Simple Math Expression Evaluator\Simple Math Expression Evaluator\obj\Debug\net5.0\ref\Simple Math Expression Evaluator.dll
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.exe
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.deps.json
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.runtimeconfig.json
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.runtimeconfig.dev.json
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.dll
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\bin\Debug\net5.0\Simple Math Expression Evaluator.pdb
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.GeneratedMSBuildEditorConfig.editorconfig
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.AssemblyInfoInputs.cache
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.AssemblyInfo.cs
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.csproj.CoreCompileInputs.cache
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.dll
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\refint\Simple Math Expression Evaluator.dll
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.pdb
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\Simple Math Expression Evaluator.genruntimeconfig.cache
+D:\هيما\.net\small calclautor\Simple Math Expression Evaluator\obj\Debug\net5.0\ref\Simple Math Expression Evaluator.dll
